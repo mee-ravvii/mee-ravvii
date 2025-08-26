@@ -6,7 +6,7 @@
 
 ### 👋 About Me
 
-Hi there! I'm Ravikishan, a recent Computer Science graduate from Abhinav College, Mumbai.  
+Hi there! I'm Ravikishan, a recent Computer Science graduate from  University Of Mumbai.  
 I'm passionate about front-end web development and enjoy turning ideas into real-world applications using modern web technologies.
 
 I’ve worked on personal projects like:
