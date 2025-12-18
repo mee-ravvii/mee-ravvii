@@ -15,7 +15,7 @@ I’ve worked on personal projects like:
 - 🍽️ **Recipe Generator**
 
 These helped me sharpen my skills in both code and design, with tools like:
-- HTML, CSS, JavaScript, Bootstrap  , APIs,
+- HTML, CSS, JavaScript , TypeScript,  Bootstrap  , APIs , MySQL,
 - WordPress & Shopify  
 - Visual Studio Code, Git & GitHub  
 
